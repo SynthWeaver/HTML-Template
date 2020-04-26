@@ -25,4 +25,4 @@ Bla bla bla larger intro
 //TODO:
 
 ## License
-//TODO:
+https://creativecommons.org/choose/
